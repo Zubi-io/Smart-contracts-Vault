@@ -22,7 +22,7 @@ Running an Ethereum test chain locally on your machine is the best practice for 
 ### 2c: Deploying & testing your contract
 Truffle’s Pet Shop tutorial will guide you through the development cycle of writing, compiling, deploying, and then testing your smart contracts.
 
-### 3: Fetching data from a smart contract
+# 3: Fetching data from a smart contract
 Along with writing smart contracts, writing programs (running on your local machine) that can interact with your contracts is also important.
 
 A common task in writing frontends or bots is contract event log monitoring. Watching events is a great way to understand the changes happening in a contract, in real time.
